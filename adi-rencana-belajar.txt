@@ -3,6 +3,7 @@ RENCANA BELAJAR ADI
   *ES6
   *Framework
    ^Vue
+   ^React
 - PHP
   *Framework
   ^Laravel
