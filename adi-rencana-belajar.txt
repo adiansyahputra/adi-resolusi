@@ -2,7 +2,10 @@ RENCANA BELAJAR ADI
 - JAVASCRIPT
   *ES6
   *Framework
+   ^Vue
+   ^React
 - PHP
   *Framework
+  ^Laravel
 - PHYTON
-
+- KOTLIN
