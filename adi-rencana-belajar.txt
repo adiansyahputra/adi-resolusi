@@ -1,6 +1,8 @@
 RENCANA BELAJAR ADI
 - JAVASCRIPT
   *ES6
-  $Framework
+  *Framework
 - PHP
+  *Framework
 - PHYTON
+
